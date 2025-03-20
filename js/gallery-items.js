@@ -1,4 +1,4 @@
-const images = [
+export default [
   {
     preview:
       "https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820__480.jpg",
@@ -63,27 +63,3 @@ const images = [
     description: "Lighthouse Coast Sea",
   },
 ];
-
-const galleryContainer = document.querySelector(".gallery");
-const galleryMarkup = createGalleryItemsMarkup(images);
-
-galleryContainer.insertAdjacentHTML("beforeend", galleryMarkup);
-
-function createGalleryItemsMarkup(images) {
-  return images
-    .map(({ preview, original, description }) => {
-      return `
-    <li class="gallery-item">
-  <a class="gallery-link" href="${original}">
-    <img
-      class="gallery-image"
-      src="${preview}"
-      data-source="${original}"
-      alt="${description}"
-    />
-  </a>
-</li>
-    `;
-    })
-    .join("");
-}

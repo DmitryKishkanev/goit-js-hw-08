@@ -8,6 +8,7 @@
 }
 
 body {
+  background-image: url("/img/background-image.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
@@ -51,4 +52,6 @@ body {
 
 .gallery-image:hover {
   transform: scale(1.03);
+  border: 1px solid rgb(0, 0, 0);
+  cursor: url("/img/mouse.png"), auto;
 }
