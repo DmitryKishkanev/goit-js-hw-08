@@ -20,7 +20,7 @@ body {
   background-color: #f5f5f5;
   color: #212121;
   line-height: 1.5;
-  background-image: url("./img/background-image.jpg");
+  background-image: url("../img/background-image.jpg");
 }
 
 .no-scroll {
@@ -69,5 +69,5 @@ body {
 .gallery-link:hover {
   transform: scale(1.03);
   border: 1px solid rgb(0, 0, 0);
-  cursor: url("/img/mouse.png"), auto;
+  cursor: url("../img/mouse.png"), auto;
 }
