@@ -155,10 +155,10 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2024/11/03/17/49/mountain-9172053_640.jpg",
+      "https://cdn.pixabay.com/photo/2025/02/17/16/04/dog-9413394_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2024/11/03/17/49/mountain-9172053_1280.jpg",
-    description: "Picture of mountain Alpstein",
+      "https://cdn.pixabay.com/photo/2025/02/17/16/04/dog-9413394_1280.jpg",
+    description: "Dog animal picture",
   },
   {
     preview:
@@ -225,10 +225,10 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2013/03/20/23/17/butterfly-95358_640.jpg",
+      "https://cdn.pixabay.com/photo/2021/10/02/21/00/ural-owl-6676441_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2013/03/20/23/17/butterfly-95358_1280.jpg",
-    description: "Picture of insect butterfly",
+      "https://cdn.pixabay.com/photo/2021/10/02/21/00/ural-owl-6676441_1280.jpg",
+    description: "Picture of ural owl",
   },
   {
     preview:
@@ -281,10 +281,10 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2023/11/28/16/10/foliage-8417776_640.jpg",
+      "https://cdn.pixabay.com/photo/2024/04/08/22/31/forest-8684668_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2023/11/28/16/10/foliage-8417776_1280.jpg",
-    description: "Leaves photo and picture",
+      "https://cdn.pixabay.com/photo/2024/04/08/22/31/forest-8684668_1280.jpg",
+    description: "Picture of forest path",
   },
   {
     preview:
@@ -337,10 +337,10 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2025/03/19/15/04/lotus-9480927_640.jpg",
+      "https://cdn.pixabay.com/photo/2022/06/10/03/59/lynx-7253623_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2025/03/19/15/04/lotus-9480927_1280.jpg",
-    description: "Lotus nature images",
+      "https://cdn.pixabay.com/photo/2022/06/10/03/59/lynx-7253623_1280.jpg",
+    description: "Lynx Wildcat image",
   },
   {
     preview:
@@ -379,10 +379,10 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2023/11/17/01/50/pine-8393456_640.jpg",
+      "https://cdn.pixabay.com/photo/2024/09/01/11/36/tansy-9013813_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2023/11/17/01/50/pine-8393456_1280.jpg",
-    description: "Picture of pine cone",
+      "https://cdn.pixabay.com/photo/2024/09/01/11/36/tansy-9013813_1280.jpg",
+    description: "Tansy Honey Bee picture",
   },
   {
     preview:
@@ -428,6 +428,28 @@ export default [
   },
   {
     preview:
+      "https://cdn.pixabay.com/photo/2024/06/22/05/25/bear-8845470_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2024/06/22/05/25/bear-8845470_1280.jpg",
+    description: "Grizzly bear picture",
+  },
+
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/01/27/01/40/brothers-7747559_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/01/27/01/40/brothers-7747559_1280.jpg",
+    description: "Pictures of brothers and sisters",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/09/03/15/16/rofous-8230881_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/09/03/15/16/rofous-8230881_1280.jpg",
+    description: "Hummingbird picture Rofous",
+  },
+  {
+    preview:
       "https://cdn.pixabay.com/photo/2024/10/22/07/09/kids-9138810_640.jpg",
     original:
       "https://cdn.pixabay.com/photo/2024/10/22/07/09/kids-9138810_1280.jpg",
@@ -435,9 +457,51 @@ export default [
   },
   {
     preview:
-      "https://cdn.pixabay.com/photo/2023/01/27/01/40/brothers-7747559_640.jpg",
+      "https://cdn.pixabay.com/photo/2023/09/05/20/37/owl-8235801_640.jpg",
     original:
-      "https://cdn.pixabay.com/photo/2023/01/27/01/40/brothers-7747559_1280.jpg",
-    description: "Pictures of brothers and sisters",
+      "https://cdn.pixabay.com/photo/2023/09/05/20/37/owl-8235801_1280.jpg",
+    description: "Bird picture Owl",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/11/03/19/59/malaysian-tiger-8363779_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/11/03/19/59/malaysian-tiger-8363779_1280.jpg",
+    description: "Images of wildlife malaysian tiger",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/02/18/20/58/chain-7798684_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/02/18/20/58/chain-7798684_1280.jpg",
+    description: "Chain Boat picture",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2024/05/12/09/28/brown-bear-8756478_640.png",
+    original:
+      "https://cdn.pixabay.com/photo/2024/05/12/09/28/brown-bear-8756478_1280.png",
+    description: "Picture of brown bear",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2024/12/07/17/47/autumn-9251331_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2024/12/07/17/47/autumn-9251331_1280.jpg",
+    description: "Picture of autumn forest",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/08/16/23/47/annas-hummingbird-8195148_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/08/16/23/47/annas-hummingbird-8195148_1280.jpg",
+    description: "Picture of hummingbird anna hummingbird",
+  },
+  {
+    preview:
+      "https://cdn.pixabay.com/photo/2023/06/01/05/58/sign-8032702_640.jpg",
+    original:
+      "https://cdn.pixabay.com/photo/2023/06/01/05/58/sign-8032702_1280.jpg",
+    description: "Signature Open image",
   },
 ];
