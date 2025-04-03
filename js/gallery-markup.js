@@ -9,7 +9,7 @@ const galleryMarkup = createGalleryItemsMarkup(images);
 // Добавляем в конец галереи все изображения
 galleryContainer.insertAdjacentHTML("beforeend", galleryMarkup);
 
-// Добавляем на галерею слушатель события
+// Добавляем на галерею слушатель события по клику
 galleryContainer.addEventListener("click", onGalleryContainerClick);
 
 // Функция рендера изображений
@@ -33,7 +33,7 @@ function createGalleryItemsMarkup(images) {
     .join("");
 }
 
-// Функция делегирования событий
+// Функция обработчика слушателя события (по методу делегирования)
 function onGalleryContainerClick(evt) {
   evt.preventDefault();
 
@@ -140,7 +140,7 @@ lazyImages.forEach((image) => {
   image.addEventListener("load", onImageLoaded, { once: true });
 });
 
-// Функция - обработчик события - добавить анимационный класс
+// Функция обработчика события добавления анимационного класса
 function onImageLoaded(evt) {
   evt.target.classList.add("appear");
 }
